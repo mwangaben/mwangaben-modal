@@ -19,7 +19,7 @@ $ npm install mwangaben-modal --save-dev
 ```
 
 
-### Anywhere in your App where Vue is accessible you can use it as 
+#### Anywhere in your App where Vue is accessible you can use it as 
 
 ```js
     <a href="#my-modal">Ask me</a>
@@ -29,7 +29,7 @@ $ npm install mwangaben-modal --save-dev
 
 ```
 
-### You can also trigger the modal via $modal.show('nameOFTheModal') as follows
+#### You can also trigger the modal via $modal.show('nameOFTheModal') as follows
 
 ```js
     <button @click="$modal.show('my-modal')">Ask me</button>
@@ -39,7 +39,7 @@ $ npm install mwangaben-modal --save-dev
 
 ```
 
-### Likewise you can also hide the modal via $modal.hide('nameOFTheModal') as follows
+#### Likewise you can also hide the modal via $modal.hide('nameOFTheModal') as follows
 
 ```js
     <button @click="$modal.show('my-modal')">Ask me</button>
@@ -51,7 +51,7 @@ $ npm install mwangaben-modal --save-dev
 
 ```
 
-### You can also opt in a name for your modal if you want to as follows 
+#### You can also opt in a name for your modal if you want to as follows 
 ```js
   import Vue from 'vue'
   import Modal from 'mwangaben-modal'
