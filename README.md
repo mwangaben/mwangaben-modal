@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mwangaben/mwangaben-modal.svg?branch=master)](https://travis-ci.com/mwangaben/mwangaben-modal)
+
 
 ## Installation
 
