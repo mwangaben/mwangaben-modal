@@ -1,1 +1,1 @@
-require('./src/ModalPlugin.js');
+module.exports = require('./src/ModalPlugin.js');
